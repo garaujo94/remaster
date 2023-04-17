@@ -1,0 +1,13 @@
+jupyterlab==3.6.3
+tqdm==4.62.2
+ipywidgets
+
+
+numpy==1.24.2
+pandas==2.0.0
+matplotlib==3.7.1
+
+scikit-learn==1.2.2
+folium==0.14.0
+
+kedro==0.18.7
