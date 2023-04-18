@@ -11,3 +11,4 @@ scikit-learn==1.2.2
 folium==0.14.0
 
 kedro==0.18.7
+kedro-viz

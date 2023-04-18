@@ -1,0 +1,5 @@
+geo_delimitation_options:
+  min_lat: 58.87
+  max_lat: 60.6142
+  min_long: 9.0263
+  max_long: 12.0125
